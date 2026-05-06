@@ -126,4 +126,4 @@ Planned future improvements include:
 
 If you use this taxonomy, the dual-perspective framework, or the provided NLP scripts in your research, commercial reports, or software pipelines, please cite the Zenodo DOI:
 
-**Yilmaz, Y. (2026). Bosphorus Patent Technology Taxonomy: A Dual-Perspective Framework for Application-Oriented Patent Analytics (v0.1). Zenodo. https://doi.org/10.5281/zenodo.11122606**
+**Yilmaz, Y. (2026). Bosphorus Patent Technology Taxonomy: A Dual-Perspective Framework for Application-Oriented Patent Analytics (v0.1). Zenodo. https://doi.org/10.5281/zenodo.20049463**
