@@ -1,4 +1,5 @@
 # Bosphorus Patent Technology Taxonomy (v0.1)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20049463.svg)](https://doi.org/10.5281/zenodo.20049463)
 
 *A Dual-Perspective Framework for Application-Oriented Patent Analytics.*
 
