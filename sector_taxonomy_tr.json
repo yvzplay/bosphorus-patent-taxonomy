@@ -1,0 +1,152 @@
+[
+    {
+        "ana_kategori": "Sağlık, Tıp ve Yaşam Bilimleri",
+        "alt_kategoriler": [
+            {"isim": "Tanı, görüntüleme ve hasta izleme", "keywords": "manyetik rezonans, mr, mri, röntgen, x-ray, ultrason, ultrasound, ekg, ecg, hasta monitörizasyonu, in vitro tanı, diagnostik, teşhis cihazı"},
+            {"isim": "Tedavi, cerrahi ve müdahale teknolojileri", "keywords": "cerrahi, surgery, neşter, kateter, catheter, stent, lazer ameliyatı, radyoterapi, radiotherapy, diyaliz, cerrahi robot"},
+            {"isim": "İlaç, biyofarmasötik ve tedavi edici biyoteknoloji", "keywords": "ilaç, drug, biyofarmasötik, biopharmaceutical, kanser ilacı, aşı, vaccine, antibiyotik, monoklonal antikor, gen terapisi, eczacılık ürünü"},
+            {"isim": "İmplant, protez ve rejeneratif tıp uygulamaları", "keywords": "implant, protez, prosthesis, kalp pili, pacemaker, ortopedik implant, yapay eklem, diş implantı, biyouyumlu malzeme, protez kol"},
+            {"isim": "Rehabilitasyon, fizik tedavi ve yardımcı yaşam teknolojileri", "keywords": "rehabilitasyon, fizik tedavi, physiotherapy, tekerlekli sandalye, işitme cihazı, hearing aid, dış iskelet, exoskeleton, yürüteç"},
+            {"isim": "Ağız, diş ve oral sağlık uygulamaları", "keywords": "ağız sağlığı, oral health, diş fırçası, ortodonti, orthodontics, diş teli, kanal tedavisi, diş dolgusu, diş beyazlatma"},
+            {"isim": "Dijital sağlık ve uzaktan hasta takibi", "keywords": "dijital sağlık, digital health, teletıp, telemedicine, hasta takip yazılımı, dijital reçete, mobil sağlık uygulaması, giyilebilir ekg, uzaktan hasta izleme"}
+        ]
+    },
+    {
+        "ana_kategori": "Otomotiv, Mobilite ve Ulaşım",
+        "alt_kategoriler": [
+            {"isim": "Kara araçları ve otomotiv sistemleri", "keywords": "otomobil, automobile, kamyon, truck, fren sistemi, brake system, süspansiyon, direksiyon, steering, şanzıman, transmission, içten yanmalı motor"},
+            {"isim": "Elektrikli ve hibrit araç sistemleri", "keywords": "elektrikli araç, ev, electric vehicle, hibrit araç, hev, hybrid vehicle, elektrikli motor, araç şarj istasyonu, batarya paketi, menzil uzatıcı"},
+            {"isim": "Otonom sürüş ve sürüş destek uygulamaları", "keywords": "otonom sürüş, autonomous driving, adas, şerit takip, lane keeping, otonom araç, otomatik park, çarpışma önleme, kör nokta uyarısı"},
+            {"isim": "Araç içi güvenlik, konfor ve kullanıcı deneyimi", "keywords": "hava yastığı, airbag, emniyet kemeri, bilgi eğlence sistemi, infotainment, klima, araç koltuğu, sürücü konforu"},
+            {"isim": "Raylı ulaşım sistemleri", "keywords": "tren, train, metro, tramvay, demiryolu, railway, vagon, sinyalizasyon, ray hattı, makas"},
+            {"isim": "Denizcilik ve su üstü/su altı taşıtları", "keywords": "gemi, ship, tekne, boat, denizaltı, submarine, pervane, propeller, dümen, sonar, tersane, deniz taşımacılığı"},
+            {"isim": "Lojistik, filo ve taşımacılık operasyonları", "keywords": "lojistik, logistics, kargo, cargo, konteyner, container, filo yönetimi, rota optimizasyonu, palet, taşıma aracı"}
+        ]
+    },
+    {
+        "ana_kategori": "Endüstriyel Üretim ve Sanayi",
+        "alt_kategoriler": [
+            {"isim": "Üretim makineleri, fabrika otomasyonu ve üretim hatları", "keywords": "montaj hattı, assembly line, konveyör, conveyor, cnc tezgahı, pres makinesi, scada, endüstri 4.0, fabrika otomasyonu"},
+            {"isim": "Kalite kontrol, test ve metroloji", "keywords": "kalite kontrol, quality control, hata tespiti, spektrometre, tahribatsız muayene, ndt, ölçüm cihazı, kamera kontrolü, metroloji"},
+            {"isim": "Endüstriyel bakım ve operasyon sürekliliği", "keywords": "kestirimci bakım, predictive maintenance, titreşim analizi, yağlama sistemi, yedek parça, arıza teşhisi, bakım yönetimi"},
+            {"isim": "Depo, intralojistik ve malzeme taşıma", "keywords": "forklift, vinç, crane, depo otomasyonu, agv, raf sistemi, istifleme, barkod okuyucu, malzeme taşıma"},
+            {"isim": "Madencilik, metalurji ve ağır sanayi uygulamaları", "keywords": "madencilik, mining, sondaj, drilling, kazı makinesi, kırıcı, cevher hazırlama, yüksek fırın, çelikhane, dökümhane"},
+            {"isim": "Ambalaj, baskı ve dönüştürme sanayii", "keywords": "ambalaj, packaging, paketleme makinesi, etiketleme, dolum tesisi, ofset baskı, matbaa, karton kutu, folyolama"}
+        ]
+    },
+    {
+        "ana_kategori": "Enerji, Altyapı ve Kamu Hizmetleri",
+        "alt_kategoriler": [
+            {"isim": "Yenilenebilir enerji uygulamaları", "keywords": "yenilenebilir enerji, renewable energy, güneş santrali, solar farm, rüzgar parkı, wind farm, jeotermal, biyokütle tesisi, temiz enerji üretimi"},
+            {"isim": "Enerji depolama ve şebeke uygulamaları", "keywords": "enerji depolama sistemi, ess, batarya parkı, şebeke dengeleme, frekans regülasyonu, şebeke ölçekli depolama"},
+            {"isim": "Elektrik iletim, dağıtım ve güç altyapısı", "keywords": "yüksek gerilim hattı, trafo, şalt sahası, switchyard, izolatör, elektrik sayacı, dağıtım panosu, güç altyapısı"},
+            {"isim": "Su, atıksu ve çevresel altyapı", "keywords": "su şebekesi, kanalizasyon, sewer, arıtma tesisi, treatment plant, baraj, pompa istasyonu, çevresel altyapı"},
+            {"isim": "Atık yönetimi, geri dönüşüm ve kaynak geri kazanımı", "keywords": "atık yönetimi, waste management, atık ayırma, insineratör, incinerator, geri dönüşüm kutusu, plastik kırma makinesi, kaynak geri kazanımı"},
+            {"isim": "Hidrojen ve alternatif enerji altyapısı", "keywords": "hidrojen üretimi, hydrogen production, elektrolizör, electrolyzer, yakıt hücresi istasyonu, hidrojen depolama, sentetik yakıt"},
+            {"isim": "Nükleer ve radyasyon temelli altyapılar", "keywords": "nükleer santral, nuclear plant, soğutma kulesi, reaktör kalbi, radiation shielding, radyasyon zırhlama, izotop üretimi"},
+            {"isim": "Petrol, doğalgaz, sondaj ve rafineri uygulamaları", "keywords": "petrol, oil, doğalgaz, natural gas, boru hattı, pipeline, rafineri, refinery, matkap ucu, petrokimya tesisi, kompresör istasyonu, lng"}
+        ]
+    },
+    {
+        "ana_kategori": "Bilgi Teknolojileri ve Dijital Hizmetler",
+        "alt_kategoriler": [
+            {"isim": "Kurumsal yazılım ve iş uygulamaları", "keywords": "kurumsal yazılım, enterprise software, erp, crm, insan kaynakları yazılımı, muhasebe sistemi, ofis programı, belge yönetimi"},
+            {"isim": "Finansal teknolojiler ve ödeme sistemleri", "keywords": "fintech, pos cihazı, kredi kartı, mobile banking, mobil bankacılık, dijital cüzdan, digital wallet, ödeme sistemi, kripto para borsası"},
+            {"isim": "E-ticaret, dijital pazarlama ve müşteri deneyimi", "keywords": "e ticaret, e-commerce, alışveriş sepeti, reklam hedefleme, seo, tavsiye motoru, recommendation engine, online mağaza, chatbot"},
+            {"isim": "Siber güvenlik uygulamaları", "keywords": "antivirüs, antivirus, vpn, kimlik doğrulama, ddos koruması, şifre yöneticisi, password manager, güvenlik duvarı, firewall"},
+            {"isim": "Veri, analitik ve karar destek uygulamaları", "keywords": "iş zekası, business intelligence, bi, veri görselleştirme, reporting, raporlama, prediktif analiz, dashboard, karar destek"},
+            {"isim": "Eğitim teknolojileri ve dijital öğrenme", "keywords": "eğitim teknolojisi, edtech, lms, uzaktan eğitim, e öğrenme, e-learning, akıllı tahta, çevrimiçi sınav, eğitim simülasyonu"},
+            {"isim": "Medya, içerik ve dijital platform uygulamaları", "keywords": "video streaming, video akış, oyun motoru, game engine, sosyal medya, content management system, cms, içerik yönetim sistemi, müzik platformu"}
+        ]
+    },
+    {
+        "ana_kategori": "Telekomünikasyon Hizmetleri ve Ağ İşletmeciliği",
+        "alt_kategoriler": [
+            {"isim": "Mobil haberleşme hizmetleri ve telekom operasyonları", "keywords": "gsm operatörü, sim kart, dolaşım, roaming, baz istasyonu yönetimi, mobil ağ operatörü, telekom operasyonu"},
+            {"isim": "Sabit haberleşme ve genişbant hizmetleri", "keywords": "adsl, vdsl, fiber internet, ev telefonu, modem, internet servis sağlayıcı, isp, genişbant hizmeti"},
+            {"isim": "Uydu haberleşmesi ve bağlantı hizmetleri", "keywords": "vsat, çanak anten, uydu alıcısı, uydu interneti, satellite internet, yörünge operatörü"},
+            {"isim": "IoT ve bağlantılı cihaz hizmetleri", "keywords": "m2m sim, akıllı şehir altyapısı, telemetri hizmeti, bağlantılı araç servisi, iot hizmeti"},
+            {"isim": "Telekom servis yönetimi ve operasyonel optimizasyon", "keywords": "oss, bss, faturalandırma sistemi, ağ izleme, network monitoring, çağrı merkezi, müşteri destek hattı"}
+        ]
+    },
+    {
+        "ana_kategori": "Elektronik ve Akıllı Tüketici Cihazları",
+        "alt_kategoriler": [
+            {"isim": "Tüketici elektroniği ve akıllı cihazlar", "keywords": "akıllı telefon, smartphone, tablet, dizüstü bilgisayar, laptop, akıllı saat, smart watch, oyun konsolu, fotoğraf makinesi"},
+            {"isim": "Görüntü, ekran ve ses sistemleri", "keywords": "televizyon, tv, monitör, projektör, hoparlör, speaker, kulaklık, mikrofon, soundbar"},
+            {"isim": "Beyaz eşya ve ev aletleri", "keywords": "buzdolabı, refrigerator, çamaşır makinesi, bulaşık makinesi, fırın, oven, elektrikli süpürge, mikrodalga, ütü"},
+            {"isim": "Kişisel bakım, hijyen ve ev içi yardımcı cihazlar", "keywords": "saç kurutma makinesi, tıraş makinesi, akıllı tartı, elektrikli diş fırçası, robot süpürge, kişisel bakım cihazı"},
+            {"isim": "Giyilebilir ve taşınabilir cihazlar", "keywords": "akıllı bileklik, fitness takipçisi, akıllı gözlük, taşınabilir şarj cihazı, powerbank, giyilebilir cihaz"}
+        ]
+    },
+    {
+        "ana_kategori": "İnşaat, Yapı ve Bina Teknolojileri",
+        "alt_kategoriler": [
+            {"isim": "Yapı malzemeleri ve yapı kimyasalları", "keywords": "çimento, cement, beton, concrete, tuğla, brick, yalıtım malzemesi, alçı, boya, su yalıtımı, yapıştırıcı"},
+            {"isim": "Taşıyıcı sistemler ve yapısal güvenlik", "keywords": "kolon, kiriş, beam, çelik konstrüksiyon, temel, foundation, sismik izolatör, deprem güçlendirme, iskele"},
+            {"isim": "Prefabrik, modüler ve cephe sistemleri", "keywords": "prefabrik, prefab, modüler yapı, giydirme cephe, curtain wall, pencere profili, cam balkon, konteyner yapı"},
+            {"isim": "İnşaat ekipmanları ve saha makineleri", "keywords": "vinç, crane, ekskavatör, excavator, beton mikseri, asfalt makinesi, saha ekipmanı, kalıp"},
+            {"isim": "Tesisat, armatür ve bina içi teknik sistemler", "keywords": "boru tesisatı, plumbing, musluk, faucet, vana, kalorifer peteği, asansör, elevator, yürüyen merdiven, havalandırma kanalı"},
+            {"isim": "Akıllı bina ve bina işletim uygulamaları", "keywords": "akıllı bina, smart building, akıllı ev, smart home, termostat, güvenlik kamerası, yangın alarmı, geçiş kontrol sistemi, aydınlatma otomasyonu"}
+        ]
+    },
+    {
+        "ana_kategori": "Tarım, Gıda ve Biyokaynak Sistemleri",
+        "alt_kategoriler": [
+            {"isim": "Tarımsal üretim ve hassas tarım", "keywords": "sera, greenhouse, sulama sistemi, irrigation, tohum, seed, gübre, fertilizer, hidroponik, hassas tarım, tarımsal sensör, rekolte tahmini"},
+            {"isim": "Tarım makineleri ve saha ekipmanları", "keywords": "traktör, tractor, biçerdöver, combine harvester, pulluk, mibzer, ilaçlama makinesi, çapa makinesi, tarım dronu"},
+            {"isim": "Hayvancılık ve veteriner uygulamaları", "keywords": "sağım makinesi, yemleme sistemi, kuluçka makinesi, veteriner aleti, hayvan takip küpesi, hayvancılık ekipmanı"},
+            {"isim": "Gıda işleme ve üretim sistemleri", "keywords": "gıda işleme, food processing, fırınlama makinesi, pastörizasyon, pasteurization, öğütücü, mikser, gıda paketleme, dondurucu, kurutma fırını"},
+            {"isim": "Gıda kalite, güvenlik ve izlenebilirlik", "keywords": "gıda analiz cihazı, soğuk zincir, cold chain, barkod takibi, kalite kontrol, food safety, gıda güvenliği, raf ömrü, izlenebilirlik"},
+            {"isim": "Fonksiyonel gıda, beslenme ve takviye uygulamaları", "keywords": "probiyotik, probiotic, vitamin, diyet takviyesi, dietary supplement, protein tozu, fonksiyonel gıda, gıda katkı maddesi"}
+        ]
+    },
+    {
+        "ana_kategori": "Havacılık, Uzay ve Savunma",
+        "alt_kategoriler": [
+            {"isim": "Hava araçları ve uçuş sistemleri", "keywords": "uçak, aircraft, helikopter, helicopter, jet motoru, kanat, wing, iniş takımı, aviyonik, avionics, kokpit, uçuş kontrol"},
+            {"isim": "İHA, drone ve otonom hava platformları", "keywords": "insansız hava aracı, iha, uav, siha, drone, pervane, uçuş kontrolcüsü, iha kamerası, otonom uçuş"},
+            {"isim": "Uzay sistemleri ve uydu platformları", "keywords": "roket, rocket, uzay aracı, spacecraft, yörünge, orbit, itki sistemi, propulsion, uydu, satellite, haberleşme faydalı yükü"},
+            {"isim": "Savunma platformları ve görev ekipmanları", "keywords": "zırhlı araç, armored vehicle, tank, denizaltı, silah sistemi, weapon system, füze, missile, mühimmat, ammunition, nişangah, radar"},
+            {"isim": "Balistik, koruma ve kritik güvenlik uygulamaları", "keywords": "balistik, ballistic, çelik yelek, balistik kalkan, zırh, armor, kamuflaj, mayın tarama, patlayıcı imha"}
+        ]
+    },
+    {
+        "ana_kategori": "Kimya, Malzeme ve Proses Sanayii",
+        "alt_kategoriler": [
+            {"isim": "Temel kimya ve ara ürün üretimi", "keywords": "petrokimya, petrochemical, asit üretimi, gübre hammaddesi, endüstriyel gaz, industrial gas, amonyak, ammonia, klor, chlorine"},
+            {"isim": "Polimer, plastik ve kauçuk sanayii", "keywords": "pvc, polietilen, polyethylene, lastik, tire, enjeksiyon kalıplama, injection molding, granül, ekstrüder, extruder, kauçuk vulkanizasyon"},
+            {"isim": "Kaplama, yüzey işlem ve özel malzeme uygulamaları", "keywords": "endüstriyel boya, toz boya, powder coating, teflon kaplama, paslanmazlık kaplaması, yapıştırıcı, adhesive, mastik"},
+            {"isim": "Teknik tekstil ve malzeme bazlı endüstriyel uygulamalar", "keywords": "geotekstil, geotextile, yanmaz kumaş, filtre bezi, paraşüt kumaşı, endüstriyel bant, izolasyon örtüsü"}
+        ]
+    },
+    {
+        "ana_kategori": "Tekstil, Giyim ve Ayakkabı",
+        "alt_kategoriler": [
+            {"isim": "Tekstil üretimi ve kumaş teknolojileri", "keywords": "iplik, yarn, dokuma tezgahı, weaving loom, örme, knitting, boyahane, kumaş, fabric, sentetik elyaf, pamuk, terbiye"},
+            {"isim": "Hazır giyim ve konfeksiyon uygulamaları", "keywords": "dikiş makinesi, sewing machine, kalıp, pattern, kesim makinesi, kıyafet, garment, fermuar, düğme, ütü presi"},
+            {"isim": "Ayakkabı, taban ve saya teknolojileri", "keywords": "ayakkabı tabanı, shoe sole, saya, upper, bağcık, iç taban, insole, poliüretan taban döküm, ayakkabı kalıbı"},
+            {"isim": "Moda aksesuarları ve giyim tamamlayıcı bileşenleri", "keywords": "çanta, bag, cüzdan, wallet, kemer, belt, toka, buckle, takı, jewelry, şemsiye, saat kordonu"}
+        ]
+    },
+    {
+        "ana_kategori": "Yaşam Alanı ve Tüketici Ürünleri",
+        "alt_kategoriler": [
+            {"isim": "Mobilya, iç mekân ve dekorasyon uygulamaları", "keywords": "koltuk, sofa, yatak, bed, masa, table, dolap, cabinet, menteşe, çekmece rayı, aydınlatma armatürü, halı"},
+            {"isim": "Spor, oyun, oyuncak ve eğlence ürünleri", "keywords": "koşu bandı, treadmill, bisiklet, bicycle, dambıl, masa oyunu, kutu oyunu, peluş oyuncak, lunapark aleti, olta"},
+            {"isim": "Evcil hayvan ürün ve bakım uygulamaları", "keywords": "kedi kumu, köpek tasması, akvaryum, kafes, evcil hayvan maması, pet food, evcil hayvan oyuncağı"},
+            {"isim": "Kozmetik, kişisel bakım ürünleri ve ev bakım/temizlik ürünleri", "keywords": "krem, cream, parfüm, perfume, makyaj malzemesi, şampuan, shampoo, deterjan, sabun, paspas, bulaşık süngeri"},
+            {"isim": "Genel yaşam tarzı ve tüketici ürünleri", "keywords": "bavul, suitcase, valiz, termos, mutfak gereçleri, mutfak bıçağı, saklama kabı, mangal, kamp çadırı"},
+            {"isim": "Eğitim, kültür ve hobi amaçlı fiziksel ürünler", "keywords": "kalem, pen, defter, notebook, müzik aleti, piyano, gitar, resim fırçası, kitap ciltleme"}
+        ]
+    }
+]
+
+
+
+
+
+
+
+
+

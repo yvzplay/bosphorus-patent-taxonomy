@@ -1,0 +1,234 @@
+[    {
+        "ana_kategori": "Software, Data and Artificial Intelligence",
+        "alt_kategoriler": [
+            {
+                "isim": "Software Infrastructure and Platforms",
+                "keywords": "operating system, OS, cloud computing, application programming interface, API, server, backend, database management system, DBMS, virtualization, container, Kubernetes, microservices"
+            },
+            {
+                "isim": "Data Processing, Analytics and Optimization",
+                "keywords": "big data, data mining, SQL, data warehouse, ETL, optimization algorithm, statistical analysis, clustering, classification, decision support, analytics"
+            },
+            {
+                "isim": "Artificial Intelligence and Machine Learning",
+                "keywords": "artificial intelligence, AI, machine learning, deep learning, neural network, natural language processing, NLP, computer vision, support vector machines, SVM, model training, prediction model"
+            },
+            {
+                "isim": "Human-Machine Interaction and Interface Technologies",
+                "keywords": "user interface, UI, user experience, UX, touchscreen, human-machine interaction, HMI, virtual reality, VR, augmented reality, AR, voice command, gesture control"
+            },
+            {
+                "isim": "Cybersecurity, Cryptography and Secure Computing",
+                "keywords": "cybersecurity, cryptography, encryption, authentication, authorization, data privacy, network security, intrusion detection, malware, RSA, blockchain"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Electrical, Electronics and Embedded Systems",
+        "alt_kategoriler": [
+            {
+                "isim": "Electronic Circuits and Hardware",
+                "keywords": "printed circuit board, PCB, resistor, capacitor, soldering, motherboard, electronic circuit, hardware, analog circuit, digital circuit"
+            },
+            {
+                "isim": "Embedded Systems and Control Units",
+                "keywords": "embedded system, microcontroller, MCU, FPGA, programmable logic, real-time operating system, RTOS, embedded software, PLC, control unit"
+            },
+            {
+                "isim": "Sensors and Sensing Hardware",
+                "keywords": "sensor, detector, transducer, converter, accelerometer, gyroscope, LiDAR, radar, temperature sensor, optical sensor"
+            },
+            {
+                "isim": "Power Electronics",
+                "keywords": "power electronics, inverter, converter, battery management system, BMS, power supply, SMPS, rectifier, transformer"
+            },
+            {
+                "isim": "Audio/Video Acquisition and Electronic Signal Processing",
+                "keywords": "digital signal processing, DSP, audio processing, image processing, filtering, noise cancellation, ADC, analog-to-digital converter, DAC, digital-to-analog converter"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Semiconductors and Microelectronics",
+        "alt_kategoriler": [
+            {
+                "isim": "Semiconductor Materials and Device Structures",
+                "keywords": "semiconductor, silicon, gallium nitride, MOSFET, transistor, diode, wafer, epitaxy"
+            },
+            {
+                "isim": "Integrated Circuit and Chip Design",
+                "keywords": "integrated circuit, chip, ASIC, VLSI, logic gate, memory chip, system on chip, SoC"
+            },
+            {
+                "isim": "Microelectronics Manufacturing, Packaging and Testing",
+                "keywords": "photolithography, lithography, etching, chip packaging, packaging, wire bonding, chip testing, wafer testing, foundry"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Networking, Transmission and Connectivity Technologies",
+        "alt_kategoriler": [
+            {
+                "isim": "Wireless Communication Systems",
+                "keywords": "wireless communication, 5G, 6G, base station, antenna, Wi-Fi, Bluetooth, RFID, cellular network"
+            },
+            {
+                "isim": "Fixed Networks, Fiber Access and Communication Infrastructures",
+                "keywords": "fiber optic, broadband, router, switch, network switch, Ethernet, wired communication, backbone network, access network"
+            },
+            {
+                "isim": "Network Management and Optimization",
+                "keywords": "network management, bandwidth allocation, routing protocol, packet switching, network latency, latency, QoS, traffic engineering"
+            },
+            {
+                "isim": "IoT and Connected Device Architectures",
+                "keywords": "Internet of Things, IoT, connected device, M2M, sensor network, edge computing, LoRa, connectivity architecture"
+            },
+            {
+                "isim": "Satellite and Non-Terrestrial Network Technologies",
+                "keywords": "satellite communication, ground station, telemetry, space communication, GPS, GNSS, low Earth orbit, LEO"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Optics, Photonics and Imaging Technologies",
+        "alt_kategoriler": [
+            {
+                "isim": "Optical Components and Optical Systems",
+                "keywords": "lens, prism, mirror, waveguide, optical fiber, diffraction grating, reflection, refraction"
+            },
+            {
+                "isim": "Laser and Photonics Technologies",
+                "keywords": "laser, laser diode, photonics, photon, optoelectronics, LED, laser cutting, LiDAR"
+            },
+            {
+                "isim": "Optical Sensing and Imaging Systems",
+                "keywords": "camera sensor, image sensor, CCD, CMOS, microscope, telescope, infrared camera, spectrometer, tomography"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Mechanical, Mechatronic and Robotic Systems",
+        "alt_kategoriler": [
+            {
+                "isim": "Machine Elements, Mechanical Assemblies and Structural Systems",
+                "keywords": "gear, bearing, shaft, spring, axle, body, chassis, mechanical joint, hinge"
+            },
+            {
+                "isim": "Motion and Actuation Mechanisms",
+                "keywords": "motor, actuator, piston, hydraulic cylinder, pneumatic, servo motor, linear motion, reducer"
+            },
+            {
+                "isim": "Fluid, Pump, Valve and Pressurized Systems",
+                "keywords": "pump, valve, compressor, turbine, fluid dynamics, pressure regulator, nozzle"
+            },
+            {
+                "isim": "Thermal Systems and Heat-Process Technologies",
+                "keywords": "heat exchanger, cooler, radiator, industrial furnace, thermal management, thermal insulation, air conditioning, HVAC"
+            },
+            {
+                "isim": "Manufacturing Methods, Forming and Assembly Technologies",
+                "keywords": "welding, casting, machining, CNC, 3D printer, additive manufacturing, extrusion, molding"
+            },
+            {
+                "isim": "Robotics and Autonomous Physical Systems",
+                "keywords": "robot arm, manipulator, autonomous robot, industrial robot, AGV, drone, kinematics, mobile robot"
+            },
+            {
+                "isim": "Measurement, Testing and Calibration Systems",
+                "keywords": "measurement, test device, calibration, quality control, metrology, verification, inspection"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Chemistry, Materials and Surface Technologies",
+        "alt_kategoriler": [
+            {
+                "isim": "Basic Chemistry and Chemical Processes",
+                "keywords": "catalyst, synthesis, solvent, reactor, distillation, polymerization, chemical reaction, acid, base"
+            },
+            {
+                "isim": "Polymer, Plastic, Rubber and Composite Technologies",
+                "keywords": "polymer, plastic, elastomer, polyurethane, carbon fiber, glass fiber, thermoplastic, composite material"
+            },
+            {
+                "isim": "Metal, Ceramic and Glass Materials",
+                "keywords": "steel, aluminum, alloy, metallurgy, sintering, ceramic, refractory, tempered glass"
+            },
+            {
+                "isim": "Surface, Coating and Thin-Film Technologies",
+                "keywords": "coating, galvanizing, PVD, CVD, anodizing, anti-corrosion coating, thin film, paint, surface roughness"
+            },
+            {
+                "isim": "Nano, Advanced and Functional Materials",
+                "keywords": "graphene, carbon nanotube, metamaterial, piezoelectric, superconductor, shape-memory alloy, nanotechnology"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Biotechnology and Life Sciences Technologies",
+        "alt_kategoriler": [
+            {
+                "isim": "Molecular Biology and Genetic Technologies",
+                "keywords": "DNA, RNA, CRISPR, gene editing, PCR, sequencing, biomarker, mutation"
+            },
+            {
+                "isim": "Cell, Tissue and Regenerative Technologies",
+                "keywords": "stem cell, cell culture, tissue engineering, bioprinting, in vitro, organoid, regenerative medicine"
+            },
+            {
+                "isim": "Pharmaceutical Formulation and Drug Development",
+                "keywords": "pharmaceutical formulation, drug development, active pharmaceutical ingredient, API, active substance, drug delivery system, controlled release, tablet, capsule, vaccine, pharmacokinetics"
+            },
+            {
+                "isim": "Bioprocessing and Bioproduction Technologies",
+                "keywords": "fermentation, bioreactor, enzyme, microbial production, purification, chromatography"
+            },
+            {
+                "isim": "Biosensor and Biological Analysis Technologies",
+                "keywords": "biosensor, antibody, ELISA, microfluidic, lab on a chip, diagnostic kit, analyzer"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Energy and Environmental Technologies",
+        "alt_kategoriler": [
+            {
+                "isim": "Energy Generation Technologies",
+                "keywords": "solar panel, wind turbine, generator, fuel cell, nuclear reactor, photovoltaic, hydroelectric"
+            },
+            {
+                "isim": "Energy Storage and Battery Technologies",
+                "keywords": "energy storage, battery, lithium-ion, battery cell, accumulator, supercapacitor, anode, cathode, energy density"
+            },
+            {
+                "isim": "Energy Conversion, Transmission and Distribution Technologies",
+                "keywords": "power grid, substation, high voltage, smart grid, transmission line, distribution line, energy management"
+            },
+            {
+                "isim": "Water Treatment, Waste Processing and Recovery Technologies",
+                "keywords": "water treatment, filtration, reverse osmosis, wastewater, recycling, biological treatment, desalination"
+            },
+            {
+                "isim": "Emission, Carbon and Environmental Monitoring Technologies",
+                "keywords": "carbon capture, exhaust gas cleaning, air-quality sensor, pollution control, greenhouse gas, emission monitoring, environmental monitoring"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Quantum Technologies",
+        "alt_kategoriler": [
+            {
+                "isim": "Quantum Computing and Information Processing",
+                "keywords": "qubit, quantum computer, entanglement, superposition, quantum algorithm, quantum gate"
+            },
+            {
+                "isim": "Quantum Communication and Cryptography",
+                "keywords": "quantum key distribution, QKD, quantum cryptography, secure communication, quantum network, cryptographic protocol"
+            },
+            {
+                "isim": "Quantum Sensing, Measurement and Positioning",
+                "keywords": "quantum sensor, atomic clock, magnetometer, high-precision measurement, quantum radar, quantum positioning"
+            }
+        ]
+    }]

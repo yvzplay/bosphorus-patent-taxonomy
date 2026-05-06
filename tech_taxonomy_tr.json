@@ -1,0 +1,98 @@
+[
+    {
+        "ana_kategori": "Yazılım, Veri ve Yapay Zeka",
+        "alt_kategoriler": [
+            {"isim": "Yazılım altyapısı ve platformlar", "keywords": "işletim sistemi, os, bulut bilişim, cloud, uygulama programlama arayüzü, api, sunucu, backend, veritabanı yönetim sistemi, dbms, sanallaştırma, container, konteyner, kubernetes, mikroservis"},
+            {"isim": "Veri işleme, analitik ve optimizasyon", "keywords": "büyük veri, big data, veri madenciliği, sql, veri ambarı, etl, optimizasyon algoritması, istatistiksel analiz, kümeleme, sınıflandırma, karar destek, analitik"},
+            {"isim": "Yapay zeka ve makine öğrenmesi", "keywords": "yapay zeka, ai, makine öğrenmesi, machine learning, derin öğrenme, sinir ağı, neural network, doğal dil işleme, nlp, bilgisayarlı görü, computer vision, destek vektör makineleri, svm, model eğitimi, tahmin modeli"},
+            {"isim": "İnsan-makine etkileşimi ve arayüz teknolojileri", "keywords": "kullanıcı arayüzü, ui, kullanıcı deneyimi, ux, dokunmatik ekran, insan makine etkileşimi, hmi, sanal gerçeklik, vr, artırılmış gerçeklik, ar, sesli komut, jest kontrolü"},
+            {"isim": "Siber güvenlik, kriptografi ve güvenli bilişim", "keywords": "siber güvenlik, kriptografi, şifreleme, encryption, kimlik doğrulama, authentication, yetkilendirme, authorization, veri gizliliği, ağ güvenliği, sızma tespiti, intrusion detection, zararlı yazılım, malware, rsa, blokzincir, blockchain"}
+        ]
+    },
+    {
+        "ana_kategori": "Elektrik, Elektronik ve Gömülü Sistemler",
+        "alt_kategoriler": [
+            {"isim": "Elektronik devreler ve donanım", "keywords": "baskılı devre kartı, pcb, direnç, resistor, kondansatör, capacitor, lehimleme, anakart, elektronik devre, donanım, analog devre, dijital devre"},
+            {"isim": "Gömülü sistemler ve kontrol birimleri", "keywords": "gömülü sistem, embedded system, mikrodenetleyici, mcu, fpga, programlanabilir lojik, gerçek zamanlı işletim sistemi, rtos, gömülü yazılım, plc, kontrol birimi"},
+            {"isim": "Sensörler ve algılama donanımları", "keywords": "sensör, algılayıcı, transdüser, dönüştürücü, ivmeölçer, accelerometer, jiroskop, gyroscope, lidar, radar, sıcaklık sensörü, optik sensör"},
+            {"isim": "Güç elektroniği", "keywords": "güç elektroniği, invertör, inverter, konvertör, converter, batarya yönetim sistemi, bms, güç kaynağı, smps, doğrultucu, rectifier, transformatör, trafo"},
+            {"isim": "Ses/görüntü edinimi ve elektronik sinyal işleme", "keywords": "dijital sinyal işleme, dsp, ses işleme, görüntü işleme, filtreleme, gürültü engelleme, noise cancellation, adc, analog sayısal dönüştürücü, dac, sayısal analog dönüştürücü"}
+        ]
+    },
+    {
+        "ana_kategori": "Yarı İletken ve Mikroelektronik",
+        "alt_kategoriler": [
+            {"isim": "Yarı iletken malzeme ve aygıt yapıları", "keywords": "yarı iletken, semiconductor, silisyum, silicon, galyum nitrür, gallium nitride, mosfet, transistör, diyot, wafer, gofret, epitaksi"},
+            {"isim": "Entegre devre ve çip tasarımı", "keywords": "entegre devre, integrated circuit, çip, chip, yonga, asic, vlsi, mantık kapısı, logic gate, bellek çipi, system on chip, soc"},
+            {"isim": "Mikroelektronik üretim, paketleme ve test", "keywords": "fotolitografi, lithography, aşındırma, etching, çip paketleme, packaging, tel bağlama, wire bonding, çip testi, wafer testi, dökümhane, foundry"}
+        ]
+    },
+    {
+        "ana_kategori": "Ağ, İletim ve Bağlantı Teknolojileri",
+        "alt_kategoriler": [
+            {"isim": "Kablosuz haberleşme sistemleri", "keywords": "kablosuz haberleşme, wireless communication, 5g, 6g, baz istasyonu, antenna, anten, wi-fi, wifi, bluetooth, rfid, hücresel ağ, cellular network"},
+            {"isim": "Sabit ağ, fiber erişim ve haberleşme altyapıları", "keywords": "fiber optik, broadband, genişbant, router, yönlendirici, switch, ağ anahtarı, ethernet, kablolu iletişim, omurga ağı, erişim ağı"},
+            {"isim": "Ağ yönetimi ve optimizasyon", "keywords": "ağ yönetimi, network management, bant genişliği tahsisi, routing protocol, yönlendirme protokolü, paket anahtarlama, packet switching, ağ gecikmesi, latency, qos, trafik mühendisliği"},
+            {"isim": "IoT ve bağlantılı cihaz mimarileri", "keywords": "nesnelerin interneti, iot, bağlantılı cihaz, m2m, sensör ağı, uç bilişim, edge computing, lora, bağlantı mimarisi"},
+            {"isim": "Uydu ve karasal olmayan ağ teknolojileri", "keywords": "uydu haberleşmesi, satellite communication, yer istasyonu, telemetri, uzay iletişimi, gps, gnss, alçak yörünge, leo"}
+        ]
+    },
+    {
+        "ana_kategori": "Optik, Fotonik ve Görüntüleme Teknolojileri",
+        "alt_kategoriler": [
+            {"isim": "Optik bileşenler ve optik sistemler", "keywords": "mercek, lens, prizma, ayna, mirror, dalga kılavuzu, waveguide, optik fiber, kırınım ağı, diffraction grating, yansıma, kırılma"},
+            {"isim": "Lazer ve fotonik teknolojileri", "keywords": "lazer, laser, lazer diyot, fotonik, photonics, foton, photon, optoelektronik, optoelectronics, led, lazer kesim, lidar"},
+            {"isim": "Optik algılama ve görüntüleme sistemleri", "keywords": "kamera sensörü, image sensor, ccd, cmos, mikroskop, microscope, teleskop, telescope, kızılötesi kamera, infrared camera, spektrometre, tomografi"}
+        ]
+    },
+    {
+        "ana_kategori": "Mekanik, Mekatronik ve Robotik Sistemler",
+        "alt_kategoriler": [
+            {"isim": "Makine elemanları, mekanik düzenekler ve yapısal sistemler", "keywords": "dişli, gear, rulman, bearing, şaft, shaft, yay, spring, mil, gövde, şasi, mekanik bağlantı, menteşe"},
+            {"isim": "Hareket ve aktüasyon mekanizmaları", "keywords": "motor, aktüatör, actuator, piston, hidrolik silindir, pneumatic, pnömatik, servo motor, lineer hareket, redüktör"},
+            {"isim": "Akışkan, pompa, vana ve basınçlı sistemler", "keywords": "pompa, pump, valf, valve, vana, kompresör, compressor, türbin, turbine, akışkanlar dinamiği, basınç regülatörü, nozul"},
+            {"isim": "Termal sistemler ve ısıl proses teknolojileri", "keywords": "ısı değiştirici, heat exchanger, soğutucu, radyatör, endüstriyel fırın, termal yönetim, ısı yalıtımı, iklimlendirme, hvac"},
+            {"isim": "İmalat yöntemleri, şekillendirme ve montaj teknolojileri", "keywords": "kaynak, welding, döküm, casting, talaşlı imalat, cnc, 3b yazıcı, 3d printer, eklemeli imalat, additive manufacturing, ekstrüzyon, kalıplama"},
+            {"isim": "Robotik ve otonom fiziksel sistemler", "keywords": "robot kol, manipülatör, manipulator, otonom robot, endüstriyel robot, agv, dron, drone, kinematik, mobil robot"},
+            {"isim": "Ölçüm, test ve kalibrasyon sistemleri", "keywords": "ölçüm, measurement, test cihazı, kalibrasyon, calibration, kalite kontrol, metroloji, metrology, doğrulama, muayene"}
+        ]
+    },
+    {
+        "ana_kategori": "Kimya, Malzeme ve Yüzey Teknolojileri",
+        "alt_kategoriler": [
+            {"isim": "Temel kimya ve kimyasal prosesler", "keywords": "katalizör, catalyst, sentez, synthesis, çözücü, solvent, reaktör, reactor, damıtma, distillation, polimerizasyon, kimyasal reaksiyon, asit, baz"},
+            {"isim": "Polimer, plastik, kauçuk ve kompozit teknolojileri", "keywords": "polimer, polymer, plastik, elastomer, poliüretan, polyurethane, karbon fiber, carbon fiber, cam elyafı, termoplastik, kompozit malzeme"},
+            {"isim": "Metal, seramik ve cam malzemeler", "keywords": "çelik, steel, alüminyum, aluminum, alaşım, alloy, metalürji, metallurgy, sinterleme, seramik, ceramic, refrakter, temperli cam"},
+            {"isim": "Yüzey, kaplama ve ince film teknolojileri", "keywords": "kaplama, coating, galvaniz, pvd, cvd, anotlama, anodizing, korozyon önleyici kaplama, ince film, thin film, boya, yüzey pürüzlülüğü"},
+            {"isim": "Nano, ileri ve fonksiyonel malzemeler", "keywords": "grafen, graphene, karbon nanotüp, carbon nanotube, metamalzeme, metamaterial, piezoelektrik, süperiletken, superconductor, şekil bellekli alaşım, nanoteknoloji"}
+        ]
+    },
+    {
+        "ana_kategori": "Biyoteknoloji ve Yaşam Bilimleri Teknolojileri",
+        "alt_kategoriler": [
+            {"isim": "Moleküler biyoloji ve genetik teknolojiler", "keywords": "dna, rna, crispr, gen düzenleme, gene editing, pcr, sekanslama, sequencing, biyobelirteç, biomarker, mutasyon"},
+            {"isim": "Hücre, doku ve rejeneratif teknolojiler", "keywords": "kök hücre, stem cell, hücre kültürü, cell culture, doku mühendisliği, tissue engineering, biyobaskı, bioprinting, in vitro, organoid, rejeneratif tıp"},
+            {"isim": "Farmasötik formülasyon ve ilaç geliştirme", "keywords": "farmasötik formülasyon, ilaç geliştirme, drug development, aktif farmasötik bileşen, api, etkin madde, ilaç taşıma sistemi, kontrollü salım, tablet, kapsül, aşı, farmakokinetik"},
+            {"isim": "Biyoproses ve biyoprodüksiyon teknolojileri", "keywords": "fermantasyon, fermentation, biyoreaktör, bioreactor, enzim, enzyme, mikrobiyal üretim, saflaştırma, purification, kromatografi, chromatography"},
+            {"isim": "Biyosensör ve biyolojik analiz teknolojileri", "keywords": "biyosensör, biosensor, antikor, antibody, elisa, mikroakışkan, microfluidic, çip üstü laboratuvar, lab on a chip, teşhis kiti, analizör"}
+        ]
+    },
+    {
+        "ana_kategori": "Enerji ve Çevre Teknolojileri",
+        "alt_kategoriler": [
+            {"isim": "Enerji üretim teknolojileri", "keywords": "güneş paneli, solar panel, rüzgar türbini, wind turbine, jeneratör, generator, yakıt hücresi, fuel cell, nükleer reaktör, fotovoltaik, hydroelectric, hidroelektrik"},
+            {"isim": "Enerji depolama ve batarya teknolojileri", "keywords": "enerji depolama, battery, batarya, lityum iyon, lithium ion, batarya hücresi, akü, süperkapasitör, supercapacitor, anot, katot, enerji yoğunluğu"},
+            {"isim": "Enerji dönüşüm, iletim ve dağıtım teknolojileri", "keywords": "elektrik şebekesi, power grid, trafo merkezi, substation, yüksek gerilim, akıllı şebeke, smart grid, iletim hattı, dağıtım hattı, enerji yönetimi"},
+            {"isim": "Su arıtma, atık işleme ve geri kazanım teknolojileri", "keywords": "su arıtma, water treatment, filtrasyon, filtration, ters osmoz, reverse osmosis, atıksu, wastewater, geri dönüşüm, recycling, biyolojik arıtma, desalinasyon"},
+            {"isim": "Emisyon, karbon ve çevresel izleme teknolojileri", "keywords": "karbon yakalama, carbon capture, egzoz gazı temizleme, hava kalitesi sensörü, kirlilik kontrolü, pollution control, sera gazı, emisyon izleme, çevresel izleme"}
+        ]
+    },
+    {
+        "ana_kategori": "Kuantum Teknolojileri",
+        "alt_kategoriler": [
+            {"isim": "Kuantum hesaplama ve bilgi işleme", "keywords": "kübit, qubit, kuantum bilgisayar, quantum computer, dolanıklık, entanglement, süperpozisyon, superposition, kuantum algoritması, kuantum kapısı, quantum gate"},
+            {"isim": "Kuantum haberleşme ve kriptografi", "keywords": "kuantum anahtar dağıtımı, qkd, kuantum kriptografi, quantum cryptography, güvenli iletişim, kuantum ağı, quantum network, kriptografik protokol"},
+            {"isim": "Kuantum algılama, ölçüm ve konumlama", "keywords": "kuantum sensörü, quantum sensor, atomik saat, atomic clock, manyetometre, magnetometer, yüksek hassasiyetli ölçüm, kuantum radarı, kuantum konumlama"}
+        ]
+    }
+]

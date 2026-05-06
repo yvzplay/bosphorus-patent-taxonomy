@@ -1,0 +1,369 @@
+    [{
+        "ana_kategori": "Healthcare, Medicine and Life Sciences",
+        "alt_kategoriler": [
+            {
+                "isim": "Diagnostics, Imaging and Patient Monitoring",
+                "keywords": "magnetic resonance, MR, MRI, X-ray, ultrasound, ECG, patient monitoring, in vitro diagnostics, diagnostic, diagnostic device"
+            },
+            {
+                "isim": "Treatment, Surgery and Intervention Technologies",
+                "keywords": "surgery, scalpel, catheter, stent, laser surgery, radiotherapy, dialysis, surgical robot"
+            },
+            {
+                "isim": "Drugs, Biopharmaceuticals and Therapeutic Biotechnology",
+                "keywords": "drug, biopharmaceutical, cancer drug, vaccine, antibiotic, monoclonal antibody, gene therapy, pharmaceutical product"
+            },
+            {
+                "isim": "Implants, Prostheses and Regenerative Medicine Applications",
+                "keywords": "implant, prosthesis, pacemaker, orthopedic implant, artificial joint, dental implant, biocompatible material, prosthetic arm"
+            },
+            {
+                "isim": "Rehabilitation, Physiotherapy and Assisted-Living Technologies",
+                "keywords": "rehabilitation, physical therapy, physiotherapy, wheelchair, hearing aid, exoskeleton, walker"
+            },
+            {
+                "isim": "Oral and Dental Health Applications",
+                "keywords": "oral health, toothbrush, orthodontics, braces, root canal treatment, dental filling, teeth whitening"
+            },
+            {
+                "isim": "Digital Health and Remote Patient Monitoring",
+                "keywords": "digital health, telemedicine, patient monitoring software, digital prescription, mobile health application, wearable ECG, remote patient monitoring"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Automotive, Mobility and Transportation",
+        "alt_kategoriler": [
+            {
+                "isim": "Land Vehicles and Automotive Systems",
+                "keywords": "automobile, truck, brake system, suspension, steering, transmission, internal combustion engine"
+            },
+            {
+                "isim": "Electric and Hybrid Vehicle Systems",
+                "keywords": "electric vehicle, EV, hybrid vehicle, HEV, electric motor, vehicle charging station, battery pack, range extender"
+            },
+            {
+                "isim": "Autonomous Driving and Driver-Assistance Applications",
+                "keywords": "autonomous driving, ADAS, lane keeping, autonomous vehicle, automatic parking, collision avoidance, blind-spot warning"
+            },
+            {
+                "isim": "In-Vehicle Safety, Comfort and User Experience",
+                "keywords": "airbag, seat belt, infotainment system, air conditioning, vehicle seat, driver comfort"
+            },
+            {
+                "isim": "Rail Transportation Systems",
+                "keywords": "train, metro, tram, railway, wagon, signaling, rail line, railway switch"
+            },
+            {
+                "isim": "Marine, Surface and Underwater Vehicles",
+                "keywords": "ship, boat, submarine, propeller, rudder, sonar, shipyard, maritime transport"
+            },
+            {
+                "isim": "Logistics, Fleet and Transportation Operations",
+                "keywords": "logistics, cargo, container, fleet management, route optimization, pallet, transport vehicle"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Industrial Production and Manufacturing",
+        "alt_kategoriler": [
+            {
+                "isim": "Production Machinery, Factory Automation and Production Lines",
+                "keywords": "assembly line, conveyor, CNC machine tool, press machine, SCADA, Industry 4.0, factory automation"
+            },
+            {
+                "isim": "Quality Control, Testing and Metrology",
+                "keywords": "quality control, defect detection, spectrometer, non-destructive testing, NDT, measuring device, camera inspection, metrology"
+            },
+            {
+                "isim": "Industrial Maintenance and Operational Continuity",
+                "keywords": "predictive maintenance, vibration analysis, lubrication system, spare part, fault diagnosis, maintenance management"
+            },
+            {
+                "isim": "Warehouse, Intralogistics and Material Handling",
+                "keywords": "forklift, crane, warehouse automation, AGV, racking system, stacking, barcode reader, material handling"
+            },
+            {
+                "isim": "Mining, Metallurgy and Heavy-Industry Applications",
+                "keywords": "mining, drilling, excavation machine, crusher, ore preparation, blast furnace, steelworks, foundry"
+            },
+            {
+                "isim": "Packaging, Printing and Converting Industries",
+                "keywords": "packaging, packaging machine, labeling, filling plant, offset printing, printing house, cardboard box, foiling"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Energy, Infrastructure and Utilities",
+        "alt_kategoriler": [
+            {
+                "isim": "Renewable Energy Applications",
+                "keywords": "renewable energy, solar power plant, solar farm, wind farm, geothermal, biomass plant, clean energy generation"
+            },
+            {
+                "isim": "Energy Storage and Grid Applications",
+                "keywords": "energy storage system, ESS, battery storage site, grid balancing, frequency regulation, grid-scale storage"
+            },
+            {
+                "isim": "Electricity Transmission, Distribution and Power Infrastructure",
+                "keywords": "high-voltage line, transformer, switchyard, insulator, electricity meter, distribution panel, power infrastructure"
+            },
+            {
+                "isim": "Water, Wastewater and Environmental Infrastructure",
+                "keywords": "water network, sewer, treatment plant, dam, pumping station, environmental infrastructure"
+            },
+            {
+                "isim": "Waste Management, Recycling and Resource Recovery",
+                "keywords": "waste management, waste sorting, incinerator, recycling bin, plastic crusher, resource recovery"
+            },
+            {
+                "isim": "Hydrogen and Alternative Energy Infrastructure",
+                "keywords": "hydrogen production, electrolyzer, fuel-cell station, hydrogen storage, synthetic fuel"
+            },
+            {
+                "isim": "Nuclear and Radiation-Based Infrastructures",
+                "keywords": "nuclear plant, cooling tower, reactor core, radiation shielding, isotope production"
+            },
+            {
+                "isim": "Oil, Natural Gas, Drilling and Refinery Applications",
+                "keywords": "oil, natural gas, pipeline, refinery, drill bit, petrochemical plant, compressor station, LNG"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Information Technology and Digital Services",
+        "alt_kategoriler": [
+            {
+                "isim": "Enterprise Software and Business Applications",
+                "keywords": "enterprise software, ERP, CRM, human-resources software, accounting system, office suite, document management"
+            },
+            {
+                "isim": "Financial Technologies and Payment Systems",
+                "keywords": "fintech, POS device, credit card, mobile banking, digital wallet, payment system, cryptocurrency exchange"
+            },
+            {
+                "isim": "E-Commerce, Digital Marketing and Customer Experience",
+                "keywords": "e-commerce, shopping cart, ad targeting, SEO, recommendation engine, online store, chatbot"
+            },
+            {
+                "isim": "Cybersecurity Applications",
+                "keywords": "antivirus, VPN, authentication, DDoS protection, password manager, firewall"
+            },
+            {
+                "isim": "Data, Analytics and Decision-Support Applications",
+                "keywords": "business intelligence, BI, data visualization, reporting, predictive analytics, dashboard, decision support"
+            },
+            {
+                "isim": "Education Technologies and Digital Learning",
+                "keywords": "education technology, EdTech, LMS, distance education, e-learning, smart board, online exam, education simulation"
+            },
+            {
+                "isim": "Media, Content and Digital Platform Applications",
+                "keywords": "video streaming, game engine, social media, content management system, CMS, music platform"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Telecommunications Services and Network Operations",
+        "alt_kategoriler": [
+            {
+                "isim": "Mobile Communication Services and Telecom Operations",
+                "keywords": "GSM operator, SIM card, roaming, base-station management, mobile network operator, telecom operation"
+            },
+            {
+                "isim": "Fixed Communication and Broadband Services",
+                "keywords": "ADSL, VDSL, fiber internet, home phone, modem, internet service provider, ISP, broadband service"
+            },
+            {
+                "isim": "Satellite Communication and Connectivity Services",
+                "keywords": "VSAT, satellite dish, satellite receiver, satellite internet, satellite operator"
+            },
+            {
+                "isim": "IoT and Connected Device Services",
+                "keywords": "M2M SIM, smart city infrastructure, telemetry service, connected vehicle service, IoT service"
+            },
+            {
+                "isim": "Telecom Service Management and Operational Optimization",
+                "keywords": "OSS, BSS, billing system, network monitoring, call center, customer support line"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Electronics and Smart Consumer Devices",
+        "alt_kategoriler": [
+            {
+                "isim": "Consumer Electronics and Smart Devices",
+                "keywords": "smartphone, tablet, laptop, smart watch, game console, camera"
+            },
+            {
+                "isim": "Image, Display and Audio Systems",
+                "keywords": "television, TV, monitor, projector, speaker, headphones, microphone, soundbar"
+            },
+            {
+                "isim": "White Goods and Home Appliances",
+                "keywords": "refrigerator, washing machine, dishwasher, oven, vacuum cleaner, microwave, iron"
+            },
+            {
+                "isim": "Personal Care, Hygiene and In-Home Helper Devices",
+                "keywords": "hair dryer, shaver, smart scale, electric toothbrush, robot vacuum, personal care device"
+            },
+            {
+                "isim": "Wearable and Portable Devices",
+                "keywords": "smart wristband, fitness tracker, smart glasses, portable charger, power bank, wearable device"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Construction, Structures and Building Technologies",
+        "alt_kategoriler": [
+            {
+                "isim": "Construction Materials and Construction Chemicals",
+                "keywords": "cement, concrete, brick, insulation material, plaster, paint, waterproofing, adhesive"
+            },
+            {
+                "isim": "Load-Bearing Systems and Structural Safety",
+                "keywords": "column, beam, steel construction, foundation, seismic isolator, earthquake reinforcement, scaffolding"
+            },
+            {
+                "isim": "Prefabricated, Modular and Facade Systems",
+                "keywords": "prefabricated, prefab, modular structure, curtain wall, window profile, glass balcony, container structure"
+            },
+            {
+                "isim": "Construction Equipment and Site Machinery",
+                "keywords": "crane, excavator, concrete mixer, asphalt machine, site equipment, formwork"
+            },
+            {
+                "isim": "Plumbing, Fixtures and In-Building Technical Systems",
+                "keywords": "plumbing, faucet, valve, radiator, elevator, escalator, ventilation duct"
+            },
+            {
+                "isim": "Smart Building and Building Operations Applications",
+                "keywords": "smart building, smart home, thermostat, security camera, fire alarm, access control system, lighting automation"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Agriculture, Food and Bioresource Systems",
+        "alt_kategoriler": [
+            {
+                "isim": "Agricultural Production and Precision Agriculture",
+                "keywords": "greenhouse, irrigation system, seed, fertilizer, hydroponics, precision agriculture, agricultural sensor, yield prediction"
+            },
+            {
+                "isim": "Agricultural Machinery and Field Equipment",
+                "keywords": "tractor, combine harvester, plow, seed drill, spraying machine, cultivator, hoeing machine, agricultural drone"
+            },
+            {
+                "isim": "Livestock and Veterinary Applications",
+                "keywords": "milking machine, feeding system, incubator, veterinary instrument, animal tracking ear tag, livestock equipment"
+            },
+            {
+                "isim": "Food Processing and Production Systems",
+                "keywords": "food processing, baking machine, pasteurization, grinder, mixer, food packaging, freezer, drying oven"
+            },
+            {
+                "isim": "Food Quality, Safety and Traceability",
+                "keywords": "food analysis device, cold chain, barcode tracking, quality control, food safety, shelf life, traceability"
+            },
+            {
+                "isim": "Functional Food, Nutrition and Supplement Applications",
+                "keywords": "probiotic, vitamin, dietary supplement, protein powder, functional food, food additive"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Aerospace, Space and Defense",
+        "alt_kategoriler": [
+            {
+                "isim": "Aircraft and Flight Systems",
+                "keywords": "aircraft, helicopter, jet engine, wing, landing gear, avionics, cockpit, flight control"
+            },
+            {
+                "isim": "UAVs, Drones and Autonomous Aerial Platforms",
+                "keywords": "unmanned aerial vehicle, UAV, UCAV, drone, propeller, flight controller, UAV camera, autonomous flight"
+            },
+            {
+                "isim": "Space Systems and Satellite Platforms",
+                "keywords": "rocket, spacecraft, orbit, propulsion system, satellite, communications payload"
+            },
+            {
+                "isim": "Defense Platforms and Mission Equipment",
+                "keywords": "armored vehicle, tank, submarine, weapon system, missile, ammunition, sight, radar"
+            },
+            {
+                "isim": "Ballistic, Protection and Critical-Security Applications",
+                "keywords": "ballistics, bulletproof vest, ballistic shield, armor, camouflage, mine clearance, explosive ordnance disposal"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Chemical, Materials and Process Industries",
+        "alt_kategoriler": [
+            {
+                "isim": "Basic Chemicals and Intermediate Production",
+                "keywords": "petrochemical, acid production, fertilizer raw material, industrial gas, ammonia, chlorine"
+            },
+            {
+                "isim": "Polymer, Plastic and Rubber Industry",
+                "keywords": "PVC, polyethylene, tire, injection molding, granule, extruder, rubber vulcanization"
+            },
+            {
+                "isim": "Coating, Surface Treatment and Specialty-Material Applications",
+                "keywords": "industrial paint, powder coating, Teflon coating, anti-corrosion coating, adhesive, sealant"
+            },
+            {
+                "isim": "Technical Textiles and Material-Based Industrial Applications",
+                "keywords": "geotextile, flame-retardant fabric, filter cloth, parachute fabric, industrial tape, insulation blanket"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Textiles, Apparel and Footwear",
+        "alt_kategoriler": [
+            {
+                "isim": "Textile Production and Fabric Technologies",
+                "keywords": "yarn, weaving loom, knitting, dyehouse, fabric, synthetic fiber, cotton, finishing"
+            },
+            {
+                "isim": "Ready-to-Wear and Garment Manufacturing Applications",
+                "keywords": "sewing machine, pattern, cutting machine, garment, zipper, button, ironing press"
+            },
+            {
+                "isim": "Footwear, Sole and Upper Technologies",
+                "keywords": "shoe sole, upper, shoelace, insole, polyurethane sole casting, shoe last"
+            },
+            {
+                "isim": "Fashion Accessories and Apparel Complementary Components",
+                "keywords": "bag, wallet, belt, buckle, jewelry, umbrella, watch strap"
+            }
+        ]
+    },
+    {
+        "ana_kategori": "Living Spaces and Consumer Products",
+        "alt_kategoriler": [
+            {
+                "isim": "Furniture, Interior and Decoration Applications",
+                "keywords": "sofa, bed, table, cabinet, hinge, drawer slide, lighting fixture, carpet"
+            },
+            {
+                "isim": "Sports, Games, Toys and Entertainment Products",
+                "keywords": "treadmill, bicycle, dumbbell, board game, plush toy, amusement-park ride, fishing rod"
+            },
+            {
+                "isim": "Pet Products and Care Applications",
+                "keywords": "cat litter, dog collar, aquarium, cage, pet food, pet toy"
+            },
+            {
+                "isim": "Cosmetics, Personal Care Products and Home Care/Cleaning Products",
+                "keywords": "cream, perfume, makeup product, shampoo, detergent, soap, mop, dish sponge"
+            },
+            {
+                "isim": "General Lifestyle and Consumer Products",
+                "keywords": "suitcase, thermos, kitchen utensils, kitchen knife, storage container, barbecue grill, camping tent"
+            },
+            {
+                "isim": "Physical Products for Education, Culture and Hobbies",
+                "keywords": "pen, notebook, musical instrument, piano, guitar, paintbrush, bookbinding"
+            }
+        ]
+    }]
